@@ -12,14 +12,9 @@
 
 ## DATASET: Uso de Taxis Yellow Cab en USA en el año 2020
 
-**Problema.** Intentaremos responder las siguientes preguntas:
+**Problema.** La pregunta a responder es:
 
 1. ¿Existe una manera de caracterizar los lugares más recurrentes para inicio / fin de viaje?
-
-2. ¿Cómo son los viajes típicamente en distancia y tiempo?
-
-3. ¿Podremos segmentar los viajes de alguna manera? (clusterización)
-
 
 ## 1. Obtención de datos
 
